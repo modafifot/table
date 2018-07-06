@@ -1,0 +1,21 @@
+table{
+    margin: auto auto;
+    width: 40%;
+}
+table, td,th,tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.yellow{
+    background-color: yellow;
+    width: 20%  ;
+}
+.orange{
+    background-color: orange;
+}
+th{
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
